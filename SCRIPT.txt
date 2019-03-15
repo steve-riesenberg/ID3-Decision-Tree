@@ -1,0 +1,254 @@
+'Run with 100% of training set and max depth = 3'
+   Test Cases  True  False
+0         194   170     24
+1           0     0      0
+2         144    76     68
+3           0     0      0
+4           0     0      0
+5         166   113     53
+6         201   122     79
+7         185    81    104
+8         543   142    401
+9         364   166    198
+'Error Rate: 0.52'
+'Run with 100% of training set and max depth = 5'
+   Test Cases  True  False
+0         172   170      2
+1         174    96     78
+2         124   107     17
+3         135   115     20
+4         194   132     62
+5         178   154     24
+6         231   176     55
+7         136   116     20
+8         246   139    107
+9         207   150     57
+'Error Rate: 0.25'
+'Run with 100% of training set and max depth = 7'
+   Test Cases  True  False
+0         191   176     15
+1         223   131     92
+2         177   130     47
+3         141   128     13
+4         170   145     25
+5         182   162     20
+6         194   171     23
+7         166   136     30
+8         155   115     40
+9         198   155     43
+'Error Rate: 0.19'
+'Run number 1 of 3 for 10.0% of data.'
+'Run with 10.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         170   160     10
+1         338   114    224
+2          89    70     19
+3         205   140     65
+4         186   124     62
+5         185   139     46
+6         171   160     11
+7         142   105     37
+8         161   100     61
+9         150   121     29
+'Accuracy: 0.69'
+'Run number 2 of 3 for 10.0% of data.'
+'Run with 10.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         173   167      6
+1         326   108    218
+2         133   110     23
+3         204   157     47
+4         169   114     55
+5         200   147     53
+6         143   131     12
+7         147   123     24
+8          91    63     28
+9         211   150     61
+'Accuracy: 0.71'
+'Run number 3 of 3 for 10.0% of data.'
+'Run with 10.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         171   159     12
+1         212    92    120
+2         124    99     25
+3         202   136     66
+4         309   152    157
+5          89    85      4
+6         179   161     18
+7         164   102     62
+8         161    95     66
+9         186   148     38
+'Accuracy: 0.68'
+'Mean accuracy over 3 trials for sample size 0.1 = 0.6922648859209795'
+'Run number 1 of 3 for 20.0% of data.'
+'Run with 20.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         180   170     10
+1         206   130     76
+2         126   109     17
+3         159   134     25
+4         233   145     88
+5         151   118     33
+6         208   169     39
+7         185   112     73
+8         180   101     79
+9         169   140     29
+'Accuracy: 0.74'
+'Run number 2 of 3 for 20.0% of data.'
+'Run with 20.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         148   148      0
+1         340   144    196
+2         134   116     18
+3         146   130     16
+4         223   145     78
+5         229   159     70
+6         158   156      2
+7         134   112     22
+8         109    70     39
+9         176   139     37
+'Accuracy: 0.73'
+'Run number 3 of 3 for 20.0% of data.'
+'Run with 20.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         172   170      2
+1         171   108     63
+2         169   126     43
+3         140   116     24
+4         225   153     72
+5         247   129    118
+6         193   163     30
+7         148   102     46
+8         168   116     52
+9         164   121     43
+'Accuracy: 0.73'
+'Mean accuracy over 3 trials for sample size 0.2 = 0.7328881469115193'
+'Run number 1 of 3 for 50.0% of data.'
+'Run with 50.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         183   168     15
+1         162   119     43
+2         195   142     53
+3         159   137     22
+4         198   146     52
+5         173   153     20
+6         164   161      3
+7         162   135     27
+8         224   137     87
+9         177   148     29
+'Accuracy: 0.8'
+'Run number 2 of 3 for 50.0% of data.'
+'Run with 50.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         172   170      2
+1         270   140    130
+2         149   132     17
+3         163   143     20
+4         155   131     24
+5         182   160     22
+6         187   168     19
+7         163   138     25
+8         163   110     53
+9         193   150     43
+'Accuracy: 0.8'
+'Run number 3 of 3 for 50.0% of data.'
+'Run with 50.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         172   170      2
+1         231   136     95
+2         162   137     25
+3         140   127     13
+4         206   142     64
+5         165   143     22
+6         188   169     19
+7         164   134     30
+8         182   122     60
+9         187   145     42
+'Accuracy: 0.79'
+'Mean accuracy over 3 trials for sample size 0.5 = 0.8000370988684845'
+'Run number 1 of 3 for 80.0% of data.'
+'Run with 80.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         172   170      2
+1         221   131     90
+2         146   130     16
+3         153   136     17
+4         210   157     53
+5         188   160     28
+6         176   167      9
+7         136   113     23
+8         186   127     59
+9         209   158     51
+'Accuracy: 0.81'
+'Run number 2 of 3 for 80.0% of data.'
+'Run with 80.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         185   170     15
+1         239   130    109
+2         155   134     21
+3         154   135     19
+4         174   147     27
+5         178   158     20
+6         182   168     14
+7         165   128     37
+8         161   117     44
+9         204   156     48
+'Accuracy: 0.8'
+'Run number 3 of 3 for 80.0% of data.'
+'Run with 80.0% of training set and max depth = 7'
+   Test Cases  True  False
+0         172   170      2
+1         216   133     83
+2         179   137     42
+3         153   140     13
+4         177   151     26
+5         177   158     19
+6         178   169      9
+7         158   140     18
+8         186   125     61
+9         201   155     46
+'Accuracy: 0.82'
+'Mean accuracy over 3 trials for sample size 0.8 = 0.8106102763865701'
+'Run number 1 of 3 for 100% of data.'
+'Run with 100% of training set and max depth = 7'
+   Test Cases  True  False
+0         191   176     15
+1         223   131     92
+2         177   130     47
+3         141   128     13
+4         170   145     25
+5         182   162     20
+6         194   171     23
+7         166   136     30
+8         155   115     40
+9         198   155     43
+'Accuracy: 0.81'
+'Run number 2 of 3 for 100% of data.'
+'Run with 100% of training set and max depth = 7'
+   Test Cases  True  False
+0         191   176     15
+1         223   131     92
+2         177   130     47
+3         141   128     13
+4         170   145     25
+5         182   162     20
+6         194   171     23
+7         166   136     30
+8         155   115     40
+9         198   155     43
+'Accuracy: 0.81'
+'Run number 3 of 3 for 100% of data.'
+'Run with 100% of training set and max depth = 7'
+   Test Cases  True  False
+0         191   176     15
+1         223   131     92
+2         177   130     47
+3         141   128     13
+4         170   145     25
+5         182   162     20
+6         194   171     23
+7         166   136     30
+8         155   115     40
+9         198   155     43
+'Accuracy: 0.81'
+'Mean accuracy over 3 trials for sample size 1 = 0.8063439065108514'
